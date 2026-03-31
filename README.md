@@ -1,6 +1,6 @@
 ******* SKIPPED TOPICS ******
 
--Operators
--loops
--functions
+-Operators \n
+-loops \n
+-functions \n
 -break and continue
