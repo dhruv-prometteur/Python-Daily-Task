@@ -35,3 +35,10 @@ def demo4(name,**info):
     print("gender : ",info["gender"])
 
 demo4("dhruv",age=23,loc="bilimora",gender="male")
+
+def demo5(name,*,age,location):
+    print("Name : ",name)
+    print("age : ",age)
+    print("location : ",location)
+
+demo5("Dhruv",age=23,location="Bilimora")

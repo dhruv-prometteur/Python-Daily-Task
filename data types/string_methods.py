@@ -17,3 +17,9 @@ print("_".join(["Dhruv","Patel"]))
 print(ex.replace(" ","*"))
 
 
+str="My name is Dhruv"
+print(str.split(" "))
+print(str.split(" ",maxsplit=2))
+print(str.rsplit(" ",maxsplit=2))
+
+
