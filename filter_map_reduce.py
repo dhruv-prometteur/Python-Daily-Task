@@ -10,3 +10,5 @@ print(doubles)
 
 sum =reduce(lambda a,b:a+b,doubles)
 print(sum)
+
+
